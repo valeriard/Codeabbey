@@ -1,0 +1,25 @@
+type: code
+user-name: valeriard
+stage: challenges
+complexity: 1.0
+others:
+  in: 23
+  out: 132
+  totals: 155
+score:
+  initial: 0.0
+  final: 1.0
+  progress: 1.0
+global-rank:
+  initial: 51352
+  final: 51352
+  progress: 0
+national-rank:
+  initial: 51352
+  final: 1563
+  progress: 49789
+total-time: 26.166
+effort: 20.71
+productivity: 0.04828
+date: '2022-09-30 14:47:18Z'
+path: valeriard.dart
